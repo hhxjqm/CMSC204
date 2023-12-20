@@ -1,0 +1,21 @@
+I-94,282;Chicago;Detroit
+I-55,510;Chicago;Kansas City
+I-70(W),482;Kansas City;Indianapolis
+I-24,555;Kansas City;Nashville
+I-49(N),513;Kansas City;Dallas
+I-80,622;Detroit;New York
+I-76,524;Detroit;Washington
+I-69,287;Detroit;Indianapolis
+I-95(S),109;Washington;Richmond
+I-70(E),588;Washington;Indianapolis
+I-65,288;Nashville;Indianapolis
+I-40(E),666;Washington;Nashville
+I-95(N),225;Washington;New York
+I-81,614;Richmond;Nashville
+I-85,533;Richmond;Atlanta
+I-75(E),664;Atlanta;Miami
+I-75(W),249;Atlanta;Nashville
+I-20,782;Atlanta;Dallas
+I-40(W),664;Dallas;Nashville
+I-49(S),506;Dallas;New Orleans
+I-10,866;New Orleans;Miami
